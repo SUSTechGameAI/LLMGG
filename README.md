@@ -5,7 +5,7 @@ This is the Supplementary Material for the paper "Game Generation via Large Lang
 Please use this bibtex if you use this repository in your work:
 
 ````
-@inproceedings{hu2023ecrl,
+@inproceedings{hu2024llmgg,
   title={Game Generation via Large Language Models},
   author={Hu, Chengpeng and Zhao, Yunlong and Liu, Jialin},
   booktitle={2024 IEEE Conference on Games (CoG)},
